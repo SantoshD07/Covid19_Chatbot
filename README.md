@@ -1,4 +1,4 @@
-# CovidInfo_Chatbot
+# Clippy Covid_Chatbot
 
 # Abstract: 
 A chatbot is a conventional agent where a computer program is designed to stimulate and conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent. A lot of popular messaging applications like Facebook-owned WhatsApp monetize their API and facilitates easier communication between businesses and customers
