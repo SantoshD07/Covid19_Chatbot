@@ -14,10 +14,7 @@ Bringing about awareness to the people about the current situation and giving th
 <img width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629575-74cab880-8817-11eb-9f5b-d66bee8de8f5.jpg">
 <img align ="left" width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629603-7a280300-8817-11eb-94f9-c32a2d88f768.jpg">
 
-<br> <br />
-<br> <br />
-<br> <br />
-<br> <br />
+
 
 
 [<img src="https://user-images.githubusercontent.com/74399051/111632988-0c7dd600-881b-11eb-9a20-41ec10355cd3.png">](https://user-images.githubusercontent.com/74399051/111631057-fa9b3380-8818-11eb-993a-8491d88b3f09.mp4)
