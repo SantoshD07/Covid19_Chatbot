@@ -8,12 +8,6 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 Bringing about awareness to the people about the current situation and giving them access to important information at the right time is one of the key service that one can possibly provide amidst the global pandemic. 
 
 
-<img align="left" width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629373-3c2adf00-8817-11eb-8287-bd5f23525894.jpg">
-<img width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629471-55cc2680-8817-11eb-8ef9-c22c713f73bd.jpg">
-<img align ="left" width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629514-62e91580-8817-11eb-9808-81026f5f0823.jpg">
-<img width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629575-74cab880-8817-11eb-9f5b-d66bee8de8f5.jpg">
-<img align ="left" width="400" height="800" src="https://user-images.githubusercontent.com/74399051/111629603-7a280300-8817-11eb-94f9-c32a2d88f768.jpg">
-
 
 
 
